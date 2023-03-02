@@ -1,4 +1,4 @@
-# KNN from scratch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DE_UIYWdnKAk56DPfZGd1AK7APCgrGsL?usp=sharing)
+# KNN from scratch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rwhhcCujhQKvo06iOiArJSnpqoCt4n_U?usp=sharing)
 
 ![image](https://user-images.githubusercontent.com/89921883/222410118-9fac734a-c4c3-4c61-bda1-b6003604bd5e.png)
 
