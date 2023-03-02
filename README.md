@@ -2,6 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/89921883/222410118-9fac734a-c4c3-4c61-bda1-b6003604bd5e.png)
 
+
 **Introduction**
 
 The reason we find that much importance is given to classification algorithms and not much is given to regression algorithms is because a lot of problems faced during our daily routine belong to the classification task. For example, we would like to know whether a tumor is malignant or benign, we would like to know whether the product we sold was received positively or negatively by the consumers, etc. K nearest neighbors is another classification algorithm and it is very simple one too. If you are following this article after K means algorithm, don't get confused as these both belong to different domains of learning. K means is a clustering/unsupervised algorithm whereas K nearest neighbors is a classification/supervised learning algorithm.
